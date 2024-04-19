@@ -1,15 +1,15 @@
 # Ollama
-This repo brings numerous use cases from the Open Source Ollama
+This repo uses the LLM from the Open Source Ollama
 
 # Step 1
-Go Ahead to https://ollama.ai/ and download the set up file
+Go to https://ollama.ai/ and download the set up file
 
 # Step 2
-Install and Start the Software
+Install and start the software
 
 # Step 3
-Clone my Entire Repo on your local device
+Clone the entire repo on your local device
 
 # Step 4
-The Repo has numerous working case as separate Folders. You can work on any folder for testing various use cases
+Use the second folder for the application discussed during VLD.
 
